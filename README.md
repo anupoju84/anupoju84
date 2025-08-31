@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sekhar — Front-End Architect & Aspiring AI Engineer
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner.png" alt="Banner" width="100%" style="border-radius:8px;" />
+  <img src="/Front-End%20Architect%20and%20Tech%20Innovator.png" alt="Banner" width="100%" style="border-radius:8px;" />
 </div>
 
 ---
